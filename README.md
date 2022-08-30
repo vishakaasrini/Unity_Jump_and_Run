@@ -61,7 +61,7 @@ In this function the system has two options: 1. if the player is on the street, 
 
 ## Evaluation
 
-On training the model for each level, we got below results.
+On training the model for each level, we got the results shown below: 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31996588/179428014-f0985432-f4ed-4f04-9c37-c062972a19ad.png">
 
